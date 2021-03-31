@@ -18,4 +18,3 @@ Route::get('/', function () {
 });
 
 Route::view('/','login');
-Route::view('/','pa');
